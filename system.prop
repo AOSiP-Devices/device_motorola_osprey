@@ -1,6 +1,7 @@
 # system.prop for osprey
 
 ro.product.model=MotoG3
+persist.ims.volte=false
 
 # Audio
 persist.audio.fluence.mode=endfire
